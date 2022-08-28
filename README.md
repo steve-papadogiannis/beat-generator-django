@@ -1,1 +1,1 @@
-# beat-generator-python-react
+# beat-generator-django
